@@ -1,4 +1,4 @@
-**老師您好，我是排名一報告同學，完整報告已做成PTT，詳請見PPT~~**
+**完整報告已做成PTT，詳請見PPT~~**
 
 以下簡單說明關鍵步驟：
 **發現高解釋力特徵**
@@ -13,11 +13,11 @@
       則總價元 =( 建物移轉總面積平方公尺 )* 單價元平方公尺 + 車位總價元
       否則 總價元 =( 建物移轉總面積平方公尺 -車位移轉總面積平方公尺)* 單價元平方公尺 + 車位總價元
 
-![image](https://github.com/user-attachments/assets/fe185f91-d089-4f2a-9a55-0898ce11da80)
+![image](https://github.com/user-attachments/assets/aaac9d51-8765-4e62-8cc5-b8ee8b8aa1dc)
 
 資料分析EDA：
-![image](https://github.com/user-attachments/assets/ca1ad72c-dec2-4679-9949-571365471ef8)
-![image](https://github.com/user-attachments/assets/b9709239-3b09-4c79-a827-e753eab055aa)
-![image](https://github.com/user-attachments/assets/59bd3ff7-7bab-4a93-8b9d-ffd761815d2b)
-![image](https://github.com/user-attachments/assets/7ca200f1-e11e-41eb-a233-3ecf9ca3280f)
-![image](https://github.com/user-attachments/assets/fe3d95be-98d4-44d1-91a6-1eca63315bcc)
+![image](https://github.com/user-attachments/assets/b186b284-8d9c-4af7-bab8-c88cb4180cc5)
+![image](https://github.com/user-attachments/assets/b7b87798-145e-46af-bc63-283425298127)
+![image](https://github.com/user-attachments/assets/607a6784-847b-41cf-a53b-6ce2891c3c5e)
+![image](https://github.com/user-attachments/assets/d524fdbb-7427-4642-bb83-913d5322d502)
+![image](https://github.com/user-attachments/assets/3d1317ea-050a-484f-8cbf-01ff0263ba37)
