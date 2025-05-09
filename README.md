@@ -3,6 +3,14 @@
 ---
 本專案透過數據分析與特徵工程，特別著重空間地理資訊處理，包括經緯度數據採集與KMeans空間聚類。研究過程中發現「單價元平方公尺」與「建物移轉總面積平方公尺」的乘積具有極高解釋力，適當情境下可將MAE降至約5000。同時透過時間特徵處理、樓層資訊數值化以及XGBoost模型訓練，最終建立高精度的房價預測系統。未來將進一步引入房價指數與更細緻的地段資訊，持續優化預測表現。
 
+## 競賽成果
+
+### 54位參賽者中獲得第一名
+![image](https://github.com/user-attachments/assets/ed1f7a51-76d0-44e2-a117-ad937e60ce84)
+
+### 競賽連結
+https://www.kaggle.com/competitions/machine-learning-2024-iaii-regression/leaderboard 
+
 ## 研究過程
 
 ### 1. 閱讀相關資料並找尋想法
